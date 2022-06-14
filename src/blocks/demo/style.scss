@@ -1,0 +1,14 @@
+.__ro-demo-block {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 100px;
+}
+
+.__ro-demo-block {
+
+}
+
+.__ro-demo-block__view-wrapper {
+    max-width: 400px;
+    margin-left: auto;
+}

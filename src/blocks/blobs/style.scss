@@ -1,0 +1,28 @@
+html {
+    height: 10000px;
+}
+
+.__ro-blobs-block {
+    height: 7000px;
+}
+
+.__ro-blobs-block__wrapper {
+    position: sticky;
+    top: 40px;
+}
+
+svg {
+    width: 100%;
+}
+
+// Controls
+
+.__ro-blobs-block__controls {
+    display: grid;
+    gap: 40px;
+}
+
+.__ro-blobs-block__controls-group {
+    display: grid;
+    gap: 20px;
+}
